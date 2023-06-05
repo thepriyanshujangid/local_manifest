@@ -9,19 +9,19 @@
 <!-- Trees -->
 
 <!--  Device Tree -->
-<project path="device/xiaomi/redwood" name="android_device_xiaomi_redwood.git" remote="pri"  />
+<project path="device/xiaomi/redwood" name="android_device_xiaomi_redwood.git" remote="pri" revision="lineage-20" />
 
 <!-- Prebuilt Kernel -->
-<project path="device/xiaomi/sm7325-common" name="android_device_xiaomi_sm7325-common.git" remote="pri"  />
+<project path="device/xiaomi/sm7325-common" name="android_device_xiaomi_sm7325-common.git" remote="pri" revision="lineage-20" />
 
 <!-- Headers -->
-<project path="kernel/xiaomi/sm7325" name="android_kernel_xiaomi_sm7325.git" remote="pri"  />
+<project path="kernel/xiaomi/sm7325" name="android_kernel_xiaomi_sm7325.git" remote="pri" revision="lineage-20" />
 
 <!-- Vendor -->
-<project path="vendor/xiaomi/redwood" name="android_vendor_xiaomi_redwood.git" remote="pri"  />
+<project path="vendor/xiaomi/redwood" name="android_vendor_xiaomi_redwood.git" remote="pri" revision="lineage-20" />
 
 <!--  -->
-<project path="vendor/xiaomi/sm7325-common" name="android_vendor_xiaomi_sm7325-common.git" remote="pri"  />
+<project path="vendor/xiaomi/sm7325-common" name="android_vendor_xiaomi_sm7325-common.git" remote="pri" revision="lineage-20" />
 
 <!-- Clang -->
 <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="lab" revision="master" />
