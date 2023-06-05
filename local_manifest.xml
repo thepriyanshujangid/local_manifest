@@ -2,7 +2,7 @@
 <manifest>
 
 <!--  Remote -->
-<remote name="pri" fetch="https://gitpri.com/thepriyanshujangid/" />
+<remote name="pri" fetch="https://github.com/thepriyanshujangid/" />
 <remote name="lab" fetch="https://gitlab.com/SauRavRwT/" />
 
 
