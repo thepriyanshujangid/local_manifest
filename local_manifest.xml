@@ -3,7 +3,7 @@
 
 <!--  Remote -->
 <remote name="pri" fetch="https://github.com/thepriyanshujangid/" />
-<remote name="lab" fetch="https://gitlab.com/SauRavRwT/" />
+<remote name="lab" fetch="https://github.com/LineageOS/" />
 
 
 <!-- Trees -->
@@ -24,6 +24,7 @@
 <project path="vendor/xiaomi/sm7325-common" name="android_vendor_xiaomi_sm7325-common.git" remote="pri" revision="lineage-20" />
 
 <!-- Clang -->
-<project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="lab" revision="master" />
+<project path="prebuilts/clang/host/linux-x86/clang-r416183b" name="
+android_prebuilts_clang_kernel_linux-x86_clang-r416183b" remote="lab" revision="lineage-20.0" />
 
 </manifest>
